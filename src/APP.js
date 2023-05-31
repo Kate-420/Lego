@@ -1,4 +1,4 @@
-import react from"react";
+import React from 'react';
 import About from "C:\Users\Dell\Desktop\My Portfolio\src\components\About.js"
 import Contacts from "C:\Users\Dell\Desktop\My Portfolio\src\components\Contacts.js"
 import Navbar from "C:\Users\Dell\Desktop\My Portfolio\src\components\Navbar.js"
