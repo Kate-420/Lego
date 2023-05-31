@@ -1,0 +1,6 @@
+{
+    "name":"js",
+    "description":"",
+    "type":"module",
+    "main":"APP.js"
+}
