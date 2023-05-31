@@ -1,6 +1,4 @@
 import React from "react";
-import { filter } from "t";
-
 export default function Contacts() {
     const [name, setName] = React.useState("")
     const [email, setEmail] =React.useState("")
