@@ -2,6 +2,7 @@
     "name": "my-portfolio",
     "type":"module",
     "version": "0.1.0",
+    "homepage": "https://Kate-420.github.io/Lego",
     "private": true,
     "dependencies": {
       "@craco/craco": "^5.9.0",
